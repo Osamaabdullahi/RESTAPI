@@ -43,6 +43,6 @@ GizmoHub REST API is designed to support an electronic e-commerce platform by of
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/gizmohubrestApi.git
+   git https://github.com/Osamaabdullahi/RESTAPI.git
    cd gizmohubrestApi
    ```
